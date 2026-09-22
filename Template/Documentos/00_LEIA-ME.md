@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: Deisgn Profissional
 - Professor ou orientador: Isabella Luiza dos Santos Souza
 - Grupo: `[à definir]`
-- Integrantes: Paulo Henrique Alves de Almeida, Matheus Avanzo dos Santos, Petterson Papa, Murilo
+- Integrantes: Matheus Avanzo dos Santos, Murilo Roselini, Paulo Henrique Alves de Almeida, Petterson Augusto Papa de Souza, Raphael Souza Araujo Barbosa
 - Data de início: 22/09/2026
 
 
