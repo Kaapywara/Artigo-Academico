@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Curso e disciplina: Deisgn Profissional
+- Professor ou orientador: Isabella Luiza dos Santos Souza
+- Grupo: `[à definir]`
+- Integrantes: Paulo Henrique Alves de Almeida, Matheus Avanzo dos Santos, Petterson Papa, Murilo
+- Data de início: 22/09/2026
 
 
 
