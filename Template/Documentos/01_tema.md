@@ -6,9 +6,9 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Grupo: `[à definir]`
+- Integrantes: Matheus Avanzo dos Santos, Murilo Roselini, Paulo Henrique Alves de Almeida, Petterson Augusto Papa de Souza, Raphael Souza Araujo Barbosa
+- Data: 22/09/2026
 
 ## Preenchimento
 
