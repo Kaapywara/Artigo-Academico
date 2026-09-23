@@ -15,9 +15,9 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: Deisgn Profissional
-- Professor ou orientador: Isabella Luiza dos Santos Souza
-- Grupo: `[à definir]`
+- Curso e disciplina: Ciências da Computação
+- Professor ou orientador: Isabella Luiza Dos Santos Souza,Davi De Oliveira Cruz
+- Grupo: 01
 - Integrantes: Matheus Avanzo dos Santos, Murilo Roselini, Paulo Henrique Alves de Almeida, Petterson Augusto Papa de Souza, Raphael Souza Araujo Barbosa
 - Data de início: 22/09/2026
 
