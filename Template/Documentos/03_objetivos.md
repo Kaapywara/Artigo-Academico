@@ -37,3 +37,15 @@ Um objetivo geral e quatro objetivos específicos relacionados ao problema de pe
 - [x] O objetivo geral responde ao problema.
 - [x] Os objetivos específicos detalham o objetivo geral.
 - [x] Os objetivos são compatíveis com uma revisão bibliográfica.
+
+## Contribuições
+
+As atividades abaixo devem ser registradas pelo grupo depois de realizadas. Não representam uma divisão de trabalho já executada.
+
+| Integrante | Atividade realizada |
+|---|---|
+| Matheus Avanzo dos Santos | A confirmar pelo integrante. |
+| Murilo Roselini | A confirmar pelo integrante. |
+| Paulo Henrique Alves de Almeida | A confirmar pelo integrante. |
+| Petterson Augusto Papa de Souza | A confirmar pelo integrante. |
+| Raphael Souza Araujo Barbosa | A confirmar pelo integrante. |

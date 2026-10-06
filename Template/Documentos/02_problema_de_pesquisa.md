@@ -22,7 +22,7 @@ Como o uso da tecnologia influencia a comunicação, as relações sociais e o a
 
 ## Produto da etapa
 
-Pergunta de pesquisa aprovada:
+Pergunta de pesquisa proposta; aprovação docente não informada:
 
 **Como o uso da tecnologia influencia a comunicação, as relações sociais e o acesso à informação no cotidiano das pessoas?**
 
@@ -34,13 +34,19 @@ Pergunta de pesquisa aprovada:
 - [x] Pode ser respondida por revisão bibliográfica.
 - [x] Não exige experimento que não será realizado.
 
+
+## Escopo da resposta
+
+A resposta será uma síntese narrativa de três estudos internacionais, sem pretensão de generalizar seus resultados para todas as pessoas ou de demonstrar causalidade onde o desenho não permite. O título “Tema aprovado” reproduz o template; não certifica aprovação docente.
+
 ## Contribuições
+
+As atividades abaixo devem ser registradas pelo grupo depois de realizadas. Não representam uma divisão de trabalho já executada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| Matheus Avanzo dos Santos | Elaboração da pergunta de pesquisa |
-| Murilo Roselini | Discussão sobre o problema de pesquisa |
-| Paulo Henrique Alves de Almeida | Verificação da relevância do tema |
-| Petterson Augusto Papa de Souza | Organização das informações |
-| Raphael Souza Araujo Barbosa | Revisão da etapa |
-```
+| Matheus Avanzo dos Santos | A confirmar pelo integrante. |
+| Murilo Roselini | A confirmar pelo integrante. |
+| Paulo Henrique Alves de Almeida | A confirmar pelo integrante. |
+| Petterson Augusto Papa de Souza | A confirmar pelo integrante. |
+| Raphael Souza Araujo Barbosa | A confirmar pelo integrante. |
